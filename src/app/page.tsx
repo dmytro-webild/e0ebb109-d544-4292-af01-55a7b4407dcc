@@ -133,7 +133,7 @@ export default function LandingPage() {
           alt: "Construction success",
         },
       ]}
-      avatarText="Trusted by 500+ NYC homeowners"
+      avatarText="Trusted by 1000+ NYC homeowners"
       marqueeItems={[
         {
           type: "text",
@@ -169,7 +169,7 @@ export default function LandingPage() {
           title: "Driveways & Sidewalks",
           subtitle: "Solid and smooth results",
           description: "Expert concrete pouring for driveways, walkways, and NYC code-compliant sidewalk repairs.",
-          imageSrc: "http://img.b2bpic.net/free-photo/japan-landmark-urban-landscape_23-2148889595.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DSqqDxxYbDAaWWPTM63eKDIKxT/uploaded-1778286417153-fu9qisg5.jpg",
           imageAlt: "Japan landmark urban landscape",
         },
         {
@@ -177,7 +177,7 @@ export default function LandingPage() {
           title: "Stairs & Masonry",
           subtitle: "Built to last",
           description: "Custom steps, retaining walls, and expert brickwork for city properties.",
-          imageSrc: "http://img.b2bpic.net/free-photo/facades-building-with-fire-escapes_23-2148184317.jpg?_wi=2",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DSqqDxxYbDAaWWPTM63eKDIKxT/uploaded-1778286440502-e15pn1e4.jpg",
           imageAlt: "Japan landmark urban landscape",
         },
         {
