@@ -47,7 +47,6 @@ export default function LandingPage() {
 
   <div id="hero" data-section="hero">
       <HeroSplit
-      useInvertedBackground={false}
       background={{
         variant: "gradient-bars"}}
       title="Reliable Construction & Home Improvement Services in NYC"
