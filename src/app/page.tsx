@@ -69,7 +69,7 @@ export default function LandingPage() {
           handle: "Bronx Homeowner",
           testimonial: "Incredible masonry work on our front steps. Highly recommended!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/engineers-throwing-papers-air_23-2147704212.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/engineers-throwing-papers-air_23-2147704212.jpg?_wi=1",
         },
         {
           name: "Sarah L.",
@@ -110,7 +110,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/facades-building-with-fire-escapes_23-2148184317.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/facades-building-with-fire-escapes_23-2148184317.jpg?_wi=1"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/beautiful-mother-with-little-son_1157-16830.jpg",
@@ -177,7 +177,7 @@ export default function LandingPage() {
           title: "Stairs & Masonry",
           subtitle: "Built to last",
           description: "Custom steps, retaining walls, and expert brickwork for city properties.",
-          imageSrc: "http://img.b2bpic.net/free-photo/facades-building-with-fire-escapes_23-2148184317.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/facades-building-with-fire-escapes_23-2148184317.jpg?_wi=2",
           imageAlt: "Japan landmark urban landscape",
         },
         {
@@ -185,7 +185,7 @@ export default function LandingPage() {
           title: "Roofing & Fencing",
           subtitle: "Quality protection",
           description: "Professional roof patching, replacements, and secure fencing installations.",
-          imageSrc: "http://img.b2bpic.net/free-photo/engineers-throwing-papers-air_23-2147704212.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/engineers-throwing-papers-air_23-2147704212.jpg?_wi=2",
           imageAlt: "Japan landmark urban landscape",
         },
         {
@@ -193,7 +193,7 @@ export default function LandingPage() {
           title: "Home Renovation",
           subtitle: "Your vision, realized",
           description: "Comprehensive interior and exterior renovations tailored to your home needs.",
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-carrying-woman-with-wheelbarrow_23-2149382171.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-carrying-woman-with-wheelbarrow_23-2149382171.jpg?_wi=1",
           imageAlt: "Japan landmark urban landscape",
         },
       ]}
@@ -240,7 +240,7 @@ export default function LandingPage() {
           role: "Homeowner",
           company: "Queens",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-carrying-woman-with-wheelbarrow_23-2149382171.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-carrying-woman-with-wheelbarrow_23-2149382171.jpg?_wi=2",
         },
         {
           id: "3",
