@@ -177,7 +177,7 @@ export default function LandingPage() {
           title: "Patio & Paving",
           subtitle: "Outdoor spaces done right",
           description: "From modern stone patios to custom walkways and backyard upgrades, we create functional outdoor spaces built to last.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DSqqDxxYbDAaWWPTM63eKDIKxT/uploaded-1778286440502-e15pn1e4.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DSqqDxxYbDAaWWPTM63eKDIKxT/uploaded-1778621589760-cho81ef2.jpg",
           imageAlt: "Japan landmark urban landscape",
         },
         {
@@ -192,8 +192,8 @@ export default function LandingPage() {
           tag: "Exterior",
           title: "Fencing",
           subtitle: "Privacy. Security. Style.",
-          description: "Comprehensive interior and exterior renovations tailored to your home needs.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DSqqDxxYbDAaWWPTM63eKDIKxT/uploaded-1778286928488-w7g3dh5s.jpg",
+          description: "Custom vinyl and exterior fencing installations designed to improve privacy, security, and curb appeal with clean professional finishes.",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DSqqDxxYbDAaWWPTM63eKDIKxT/uploaded-1778621548383-os3dxs9v.jpg",
           imageAlt: "Japan landmark urban landscape",
         },
       ]}
