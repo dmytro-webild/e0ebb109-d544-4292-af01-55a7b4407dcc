@@ -62,7 +62,7 @@ export default function LandingPage() {
         variant: "gradient-bars",
       }}
       title="Reliable Construction & Home Improvement Services in NYC"
-      description="AJ NOVA CONSTRUCTION helps homeowners and property owners with quality repairs, renovations, concrete work, roofing, fencing, stairs, masonry, and more across the Bronx, Brooklyn, Queens, Manhattan, and nearby areas."
+      description="AJ NOVA CONSTRUCTION helps homeowners and property owners with quality repairs, renovations, concrete work, roofing, fencing, stairs, masonry, and more across NYC, Westchester & Long Island."
       testimonials={[
         {
           name: "Alex R.",
@@ -174,26 +174,26 @@ export default function LandingPage() {
         },
         {
           tag: "Exterior",
-          title: "Stairs & Masonry",
-          subtitle: "Built to last",
-          description: "Custom steps, retaining walls, and expert brickwork for city properties.",
+          title: "Patio & Paving",
+          subtitle: "Outdoor spaces done right",
+          description: "From modern stone patios to custom walkways and backyard upgrades, we create functional outdoor spaces built to last.",
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DSqqDxxYbDAaWWPTM63eKDIKxT/uploaded-1778286440502-e15pn1e4.jpg",
           imageAlt: "Japan landmark urban landscape",
         },
         {
           tag: "Repair",
-          title: "Roofing & Fencing",
-          subtitle: "Quality protection",
-          description: "Professional roof patching, replacements, and secure fencing installations.",
-          imageSrc: "http://img.b2bpic.net/free-photo/engineers-throwing-papers-air_23-2147704212.jpg?_wi=2",
+          title: "Roofing",
+          subtitle: "Strong roofs. Honest work.",
+          description: "We provide quality roofing services using durable materials and attention to detail for long-lasting performance.",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DSqqDxxYbDAaWWPTM63eKDIKxT/uploaded-1778286484824-e81k8i2z.jpg",
           imageAlt: "Japan landmark urban landscape",
         },
         {
-          tag: "Improvement",
-          title: "Home Renovation",
-          subtitle: "Your vision, realized",
+          tag: "Exterior",
+          title: "Fencing",
+          subtitle: "Privacy. Security. Style.",
           description: "Comprehensive interior and exterior renovations tailored to your home needs.",
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-carrying-woman-with-wheelbarrow_23-2149382171.jpg?_wi=1",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DSqqDxxYbDAaWWPTM63eKDIKxT/uploaded-1778286928488-w7g3dh5s.jpg",
           imageAlt: "Japan landmark urban landscape",
         },
       ]}
